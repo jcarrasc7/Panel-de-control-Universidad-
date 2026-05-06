@@ -3,7 +3,6 @@
 Dashboard interactivo desarrollado con **Streamlit**, basado en el dataset *university_student_data.csv*.
 
 ##  Descripción
-Este proyecto forma parte de la actividad **Data Visualization and Dashboard Deployment**.
 El objetivo es analizar indicadores universitarios de retención, satisfacción y matrícula, y mostrarlos en un tablero dinámico.
 
 ##  Funcionalidades
